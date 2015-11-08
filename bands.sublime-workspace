@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"ent",
+				"entry-title"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"me",
+				"medium_tab"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"medi",
+				"medium_tab"
+			],
+			[
+				"bagLabG",
+				"bagLabGreen"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"bag",
+				"bagLabWhite"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"item",
+				"item"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"temp",
+				"tempForm"
+			],
+			[
+				"margin-",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tcornelius/Development/Favorite Music/Bands.html",
+		"/Users/tcornelius/Development/Favorite Music/bands.css",
+		"/Users/tcornelius/Development/Favorite Music/main.css",
+		"/Users/tcornelius/Desktop/Code /menu.html",
+		"/Users/tcornelius/Desktop/Code /menu.css",
+		"/Users/tcornelius/Desktop/Code /about.html",
+		"/Users/tcornelius/Desktop/Code /about.css",
+		"/Users/tcornelius/Desktop/Code /contact.html",
+		"/Users/tcornelius/Desktop/Code /contact.css",
+		"/Users/tcornelius/Development/CornStop/corn.css",
+		"/Users/tcornelius/Development/CornStop/index.html",
+		"/Users/tcornelius/Desktop/Code /index.html",
+		"/Users/tcornelius/Development/bag-labs-wordpress-site/wp-content/plugins/jetpack/scss/templates/_main.scss",
+		"/Users/tcornelius/Development/bag-labs-wordpress-site/wp-content/themes/baglabs/single.php",
+		"/Users/tcornelius/Development/bag-labs-wordpress-site/wp-content/themes/baglabs/footer.php",
+		"/Users/tcornelius/Development/bag-labs-wordpress-site/wp-content/themes/baglabs/sass/navigation/_links.scss",
+		"/Users/tcornelius/Development/bag-labs-wordpress-site/wp-content/themes/baglabs/vendors/ZurbFoundation/css/foundation.css",
+		"/Users/tcornelius/Development/bag-labs-wordpress-site/wp-content/themes/baglabs/sass/typography/_typography.scss",
+		"/Users/tcornelius/Development/bag-labs-wordpress-site/wp-content/themes/baglabs/inc/template-tags.php",
+		"/Users/tcornelius/Development/bag-labs-wordpress-site/wp-content/themes/baglabs/template-parts/content-page.php",
+		"/Users/tcornelius/Development/bag-labs-wordpress-site/wp-content/themes/baglabs/index.php",
+		"/Users/tcornelius/Development/bag-labs-wordpress-site/wp-content/themes/baglabs/functions.php",
+		"/Users/tcornelius/Development/bag-labs-wordpress-site/wp-content/themes/baglabs/sass/variables-site/_typography.scss",
+		"/Users/tcornelius/Library/Application Support/Sublime Text 3/Packages/Browser Refresh/Default (OSX).sublime-keymap",
+		"/Users/tcornelius/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/tcornelius/Development/bag-labs-wordpress-site/wp-content/themes/baglabs/js/navigation.js",
+		"/Users/tcornelius/Development/bag-labs-wordpress-site/wp-content/themes/baglabs/page-blogroll.php",
+		"/Users/tcornelius/Development/bag-labs-wordpress-site/wp-content/themes/baglabs/template-parts/content.php",
+		"/Users/tcornelius/Development/bag-labs-wordpress-site/wp-content/themes/baglabs/sass/site/_header.scss",
+		"/Users/tcornelius/Desktop/GenericTemplate/GenericTemplate.html",
+		"/Users/tcornelius/Desktop/Email_Test.html",
+		"/Users/tcornelius/Desktop/Code /form.js",
+		"/Users/tcornelius/Desktop/Code /angel_slayer.js",
+		"/Users/tcornelius/Desktop/Code /Dragon_slayer.js",
+		"/Users/tcornelius/Desktop/Code /count_letter.js",
+		"/Users/tcornelius/Desktop/Code /coin.js",
+		"/Users/tcornelius/Desktop/Code /conversion.js",
+		"/Users/tcornelius/Desktop/Code /checklist.js",
+		"/Users/tcornelius/Desktop/Code /myname.js",
+		"/Users/tcornelius/Desktop/Code /checklist.css",
+		"/Users/tcornelius/Desktop/Code /checklist.html",
+		"/Users/tcornelius/Desktop/Code /Form.html",
+		"/Users/tcornelius/Desktop/Code /Conversion.html",
+		"/Users/tcornelius/Desktop/Code /form.css",
+		"/Users/tcornelius/Desktop/Code /Bands.html",
+		"/Users/tcornelius/Desktop/Code /java-test.html",
+		"/Users/tcornelius/Desktop/Code /test.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"max",
+			"placeholder",
+			"\" ",
+			";\n",
+			"#{$medium}",
+			"$medium",
+			".top-bar",
+			"hentry",
+			"class=\"hentry\"",
+			".entry-title",
+			"<h2 class=\"entry-title\"",
+			"<div class=\"mask\"",
+			"a:visited",
+			".mobileMenuSide",
+			"navSquares",
+			"margin",
+			"$medium_tab",
+			".entry-con",
+			"<article id=\"post-67",
+			"post-67",
+			".readMoreLink",
+			"<i class=\"fa fa-linkedin-square",
+			"a:hover",
+			"heroNavigation",
+			"<div class=\"heroNavigation\">",
+			"<div class=\"site-info\">",
+			"site-info",
+			"fa fa-calendar",
+			"readMoreLink",
+			"read",
+			"font-family",
+			"@fontFac",
+			"fa fa-search",
+			"form",
+			".site-header",
+			"#masthead",
+			".site-header",
+			"colorOverlay",
+			"pre_header",
+			"<br>",
+			"images/Rimadyl_TicketUptd_images_logo.jpg",
+			"images/Rimadyl_TicketUptd_images_zoetis_logo.jpg",
+			"rimadyl logo",
+			"http://o.ZoetisUS.com/rs/686-BYD-443/images/images_empty.gif",
+			"images/Rimadyl_TicketUptd_images_zoetis_logo.jpg",
+			"images/Rimadyl_TicketUptd_images_header_img.jpg",
+			"images/Rimadyl_TicketUptd_images_footer_img.jpg",
+			"images/images_empty.gif"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#{$medium_tab}",
+			"$medium",
+			"preheader",
+			"<br/>",
+			"</br>",
+			"http://o.ZoetisUS.com/rs/686-BYD-443/images/Rimadyl_TicketUptd_images_logo.jpg",
+			"http://o.ZoetisUS.com/rs/686-BYD-443/images/Rimadyl_TicketUptd_images_zoetis_logo.jpg",
+			"http://o.ZoetisUS.com/rs/686-BYD-443/images/Rimadyl_TicketUptd_images_logo.jpg",
+			"http://o.ZoetisUS.com/rs/686-BYD-443/images/Rimadyl_TicketUptd_images_header_img.jpg",
+			"http://o.ZoetisUS.com/rs/686-BYD-443/images/Rimadyl_TicketUptd_images_footer_img.jpg",
+			"http://o.ZoetisUS.com/rs/686-BYD-443/images/images_empty.gif"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bands.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
